@@ -18,9 +18,9 @@ int main () {
 }
 
 int greatDivisor (int num){
-    int divi=0;
+    int divi=1;
     int sum ;
-    if (num > 1)
+    if (num >= 1)
     {
         while (divi < num)
         {
