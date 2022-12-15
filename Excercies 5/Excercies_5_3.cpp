@@ -9,8 +9,6 @@ int main (){
         cin >> X ;
         cout <<cheeth(X) << endl;
     }
-    
-    
 }
 
 int cheeth(int money){
