@@ -11,7 +11,7 @@ int main (){
     }
 }
 
-int cheeth(int money){
+int cheetah(int money){
     int bottle = money/10;
     int sheet = bottle;
     int h=0 ;
