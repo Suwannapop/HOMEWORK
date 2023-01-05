@@ -46,6 +46,6 @@ void printPattern1(int I , int J){
     
 }
 int main (){
-    printPattern1(5,-3);
+    printPattern1(5,2);
     
 }
