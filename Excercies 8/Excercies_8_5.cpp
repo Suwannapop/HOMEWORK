@@ -19,6 +19,6 @@ void printPattern2(int I ){
     
 }
 int main (){
-    printPattern2(3);
+    printPattern2(4);
     
 }
