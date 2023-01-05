@@ -20,5 +20,4 @@ void printPattern2(int I ){
 }
 int main (){
     printPattern2(4);
-    
 }
