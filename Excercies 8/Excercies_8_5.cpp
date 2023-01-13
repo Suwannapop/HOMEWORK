@@ -4,8 +4,12 @@
 using namespace std ;
 
 void printPattern2(int I ){
+  if (I <= 0)
+      {
+        cout << "Invalid input" ;
+      }
     for (int n = 0; n < I; ++n)
-    {
+    {      
       for (int i = 0; i <= n; i++)
       {
         cout << "O";
