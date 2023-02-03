@@ -31,13 +31,6 @@ void insert(const Type X[], Type A[], int N, Type insert, int index){
         {
             A[index] = insert ;
         }
-        
-        
-        
-        
-        
-        
-      
     }
     
 }
